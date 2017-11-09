@@ -15,4 +15,4 @@ annotation class SkipAs(val skipped:String)
 annotation class DeserializeAbstract(val target:KClass<out Any>)
 
 @Target(AnnotationTarget.PROPERTY,AnnotationTarget.FIELD)
-annotation class CustomSerializer(val target:KClass<out ObjectSerializer<*,*>>)
+annotation class CustomSerializer(val target:KClass<out ObjectSerializer<*>>)

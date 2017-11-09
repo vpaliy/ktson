@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ktson.iml" filepath="$PROJECT_DIR$/ktson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktson@/ktson@.iml" filepath="$PROJECT_DIR$/ktson@/ktson@.iml" />
       <module fileurl="file://$PROJECT_DIR$/ktson@/lib.iml" filepath="$PROJECT_DIR$/ktson@/lib.iml" />
     </modules>
   </component>
